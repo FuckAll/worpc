@@ -5,7 +5,7 @@ package worpc
 import (
 	"runtime"
 
-	"github.com/wothing/log"
+	"github.com/FuckAll/log"
 	"golang.org/x/net/context"
 	"google.golang.org/grpc"
 	"google.golang.org/grpc/codes"
